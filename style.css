@@ -1,0 +1,48 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.bg-panda{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.btn-btn-panda{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.catagories h1{
+    color: white;
+
+}
+.catagories img{
+    width: 100px;
+}
+.cat-watch, .cat-bag , .cat-shoes{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat-watch{
+    background-color: orange;
+}
+.cat-bag{
+    background-color: orchid;
+}
+.cat-shoes{
+    background-color: blue;
+}
+
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+   
+}
+.card-footer{
+    border: none;
+}
